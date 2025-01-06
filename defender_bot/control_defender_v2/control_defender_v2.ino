@@ -3,8 +3,8 @@
 
 // Motor pins
 #define FLP 33  // Front Left Positive
-#define FLN 25  // Front Left Negative
-#define FRP 27  // Front Right Positive
+#define FLN 32  // Front Left Negative
+#define FRP 25  // Front Right Positive
 #define FRN 26  // Front Right Negative
 
 // Network credentials
